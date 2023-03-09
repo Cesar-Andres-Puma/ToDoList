@@ -1,10 +1,3 @@
-const UseContext = () => {
-  //   inferface:[
-  //     nome:String
-  //   ]
-  //  function helloWord = () =>{
-  //   return console.log("hello word")
-  //  }
-};
+const UseContext = () => {};
 
 export default UseContext;

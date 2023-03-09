@@ -11,6 +11,7 @@ ${({ theme }) => css`
   body {
     font-size: 1.6rem;
     background-color: ${theme.colors.background};
+    color: ${theme.colors.white};
   }
 
   ul {
